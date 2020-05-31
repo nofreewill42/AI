@@ -4,3 +4,6 @@
  - Hear and Generate sound
  - 3D model of the world - rough shapes with properties - predict future positions
  - [Sense pressure and temperature](https://github.com/nofreewill42/AI/blob/master/Touch.md)
+
+---
+
