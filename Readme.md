@@ -7,5 +7,4 @@
 
 ---
 
- 1. Proof of Concept
-   [ML-Agents](https://learn.unity.com/course/ml-agents-hummingbirds) for simulation first
+ 1. [Proof of Concept - Simulation]()
