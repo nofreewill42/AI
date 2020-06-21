@@ -7,3 +7,10 @@ Efficiently represent the world. Model objects and features, link objects with f
  - Other objects like: Furnitures, Doors, etc.
 
 https://www.scientificamerican.com/article/why-walking-through-doorway-makes-you-forget/
+
+You have a model of your:
+ - Childhood home
+ - Favorite toy
+
+Where could that toy be:
+ - Remember the action when you put it aside.
