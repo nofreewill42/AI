@@ -13,4 +13,6 @@ You have a model of your:
  - Favorite toy
 
 Where could that toy be:
- - Remember the action when you put it aside.
+ - Action that changed it's location.
+
+Model of action, also? Link actions to objects.
