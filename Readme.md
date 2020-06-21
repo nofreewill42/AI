@@ -1,3 +1,4 @@
+ - [NN architecture is everything]()
  - [3D vision](https://github.com/nofreewill42/AI/blob/master/3D%20vision.md)
  - [Tasks](https://github.com/nofreewill42/AI/blob/master/Task.md)
  - Hear and Generate sound
